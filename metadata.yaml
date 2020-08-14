@@ -1,5 +1,5 @@
 _repo: The-Arabian-Nights-Volume-I-of-IV_62897
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Forster, Edward
@@ -16,7 +16,12 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Antoine_Galland
     - https://fr.wikipedia.org/wiki/Antoine_Galland
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: Translation of the French version by Antoine Galland.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62897#The-Arabian-Nights-Volume-I-of-IV
 gutenberg_issued: '2020-08-10'
 gutenberg_type: Text
 identifiers:
